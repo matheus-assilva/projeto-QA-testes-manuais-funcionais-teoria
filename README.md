@@ -1,0 +1,1 @@
+# projeto-QA-testes-manuais-funcionais-teoria
