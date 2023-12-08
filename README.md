@@ -1,4 +1,4 @@
-# Desafio do: O dia a dia de um QA: A Prática de Testes Manuais Funcionais
+# O dia a dia de um QA: A Prática de Testes Manuais Funcionais
 - Bootcamp WEX - Desenvolvimento .NET e QA
 
 ## A documentação sugerida no desafio de projeto foi: 
